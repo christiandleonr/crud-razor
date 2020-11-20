@@ -1,0 +1,13 @@
+@page
+@model DeleteModel
+
+<form method="POST">
+    <div class="form-group">
+        <label for="Id">Id</label>
+        <input type="text" asp-for="Id" class="form-control" id="Id" aria-describedby="">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Obtener</button>
+</form>
+
+<h3>@Model.Title</h3>

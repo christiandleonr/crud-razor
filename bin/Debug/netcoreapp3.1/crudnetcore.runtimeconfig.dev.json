@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ketpycode\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ketpycode\\.nuget\\packages"
+    ]
+  }
+}
